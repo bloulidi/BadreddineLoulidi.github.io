@@ -1,7 +1,7 @@
 /* Dont forget that the linked css is the minified version.
 Updating the code here wont work unless you change the linked css in index.html */
 @font-face {
-   src: url(/fonts/NeutraText-Book.otf);
+   src: url(.././fonts/NeutraText-Book.otf);
    font-family: neutra;
  }
 
